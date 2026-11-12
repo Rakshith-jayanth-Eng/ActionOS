@@ -1,0 +1,8 @@
+{
+  "name": "Remix ActionOS",
+  "description": "Converts messy documents, screenshots, notices, and unstructured information into concrete action plans with deadlines, requirements, and next-step intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
